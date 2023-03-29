@@ -1,3 +1,3 @@
 <template>
-  <div>Oleg Rõbnikov Web Development</div>
+  <div class="text-xl">Oleg Rõbnikov Web Development</div>
 </template>
